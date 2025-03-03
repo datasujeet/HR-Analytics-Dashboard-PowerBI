@@ -15,7 +15,7 @@ This Power BI dashboard provides insights into **HR analytics**, including attri
 - **SQL/Excel** (Data Cleaning & Preparation)
 
 ## Screenshot:
-![HR Analytics Dashboard](HR Analytics Dashboard.jpg)
+![HR Analytics Dashboard](https://github.com/datasujeet/HR-Analytics-Dashboard-PowerBI/blob/c329ec629f0cddaa888fd21c9f0b450aa5b3e14c/HR_Analytics_Dashboard.jpg)
 
 ## How to Use:
 1. Download the `.pbix` file.
